@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "davy@pullstream.io",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-mocks": "1.4.8",
+    "angular-route": "1.4.8"
+  },
+  "devDependencies": {
+    "karma-ng-html2js-preprocessor": "^0.2.1",
+    "wallaby-ng-html2js-preprocessor": "^0.1.0"
+  }
+}
